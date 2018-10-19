@@ -1,6 +1,5 @@
-#Team name: 
+# Team name
 Gopay
-
 #Members:
 
 Olisaemeka Okoye
