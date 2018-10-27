@@ -18,4 +18,4 @@ Etc
 A platform that helps people pay money into their account, send money to anyone and save small amount of money daily,(just like the normal local collector we have around) all with the use of recharge cards.
 
 ## Stack
-Yet to be decided...
+Frontend: Html5 & Bootstrap    Backend: Php    Database: SQL
